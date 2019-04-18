@@ -1,0 +1,7 @@
+[caps]
+platformName = "iOS"
+platformVersion = "12.1"
+deviceName = "iPhone 8"
+noReset= "false"
+fullReset= "false"
+app = "/Users/eloy.vitorio/Documents/Projetos_Iniciativas_React_UiTest/PrjAppiumMagic/Apps/ios/iOS_Simulator_iPhone_8/MagicReatcNative.app"

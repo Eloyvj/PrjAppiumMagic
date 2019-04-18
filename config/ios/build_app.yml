@@ -1,0 +1,7 @@
+eloy:
+  xcworkspace: "/Users/eloy.vitorio/Documents/Projetos_Iniciativas_React/magicreactnative/ios/MagicReatcNative.xcworkspace"
+  scheme: MagicReatcNative
+  configuration: Homolog
+  destination: "platform=iOS Simulator,name=iPhone 8"
+  export_path: "/Users/eloy.vitorio/Documents/Projetos_Iniciativas_React_UiTest/PrjAppiumMagic/Apps/ios"
+

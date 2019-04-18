@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = "NEXUS 5X API 27"
+app = "/Users/eloy.vitorio/Documents/Projetos_Iniciativas_React_UiTest/PrjAppiumMagic/Apps/android/app-debug.apk"
